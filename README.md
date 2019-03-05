@@ -2,6 +2,9 @@
 
 > The shareable EcmaScript standard for UF Health web development.
 
+[![NPM (scoped)](https://img.shields.io/npm/v/@ufhealth/eslint-config-standard.svg)](https://www.npmjs.org/package/@ufhealth/eslint-config-standard)
+[![Build Status](https://travis-ci.com/UFHealth/eslint-config-standard.svg?branch=master)](https://travis-ci.com/UFHealth/eslint-config-standard)
+
 ## Key features
 
 - Based on [`eslint-config-standard`](https://github.com/standard/eslint-config-standard)
